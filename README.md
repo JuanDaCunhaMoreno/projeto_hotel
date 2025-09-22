@@ -1,32 +1,53 @@
-🏨 Análise de Hospedagem – Python, SQL e Power BI
-📌 Sobre o Projeto
+## 🏨 Análise de Hospedagem – Python, SQL e Power BI
+---
+### 📸 Prévia do Dashboard
+![Prévia do Dashboard](Linkedin.png)
 
-Este projeto tem como objetivo analisar dados de hospedagem, segmentar clientes por perfil e gerar insights sobre receita, idade média e fidelização.
+## 📌 Sobre o Projeto
 
-A pipeline foi construída com:
+- Este projeto tem como objetivo analisar dados de hospedagem, segmentar clientes por perfil e gerar insights sobre receita, idade média e fidelização.
 
-Python → limpeza dos dados, tratamento de valores ausentes e criação de colunas derivadas.
+- A pipeline foi construída com:
 
-SQL → consultas para estruturar tabelas e preparar dados para análise.
+- Python → limpeza dos dados, tratamento de valores ausentes e criação de colunas derivadas.
 
-Power BI → desenvolvimento de um dashboard interativo e visual.
+- SQL → consultas para estruturar tabelas e preparar dados para análise.
 
-⚙️ Tecnologias Utilizadas
+- Power BI → desenvolvimento de um dashboard interativo e visual.
+---
 
-Python (Pandas, NumPy)
+## ⚙️ Tecnologias Utilizadas
 
-SQL (MySQL / PostgreSQL / outro que usou)
+- Python (Pandas, NumPy)
 
-Power BI
+- SQL (MySQL / PostgreSQL / outro que usou)
 
-📊 Dashboard
+- Power BI
 
-O painel final apresenta:
+## 📊 Dashboard
 
-Receita total, número de clientes e idade média.
+- O painel final apresenta:
 
-Segmentação de clientes por perfil (Campeões, Em risco, Fiéis, etc.).
+- Receita total, número de clientes e idade média.
 
-Análise de hospedagem por idade.
+- Segmentação de clientes por perfil (Campeões, Em risco, Fiéis, etc.).
 
-Tempo de relacionamento dos clientes.
+- Análise de hospedagem por idade.
+
+- Tempo de relacionamento dos clientes.
+---
+
+## 🎯 Principais Insights do Dashboard
+A análise revelou vários insights acionáveis que podem orientar a estratégia de negócio do hotel:
+
+- Foco nos Clientes de Alto Valor: O segmento "Campeões", embora não seja o maior em número, é responsável pela maior fatia da receita, indicando a necessidade de programas de fidelidade e tratamento VIP para este grupo.
+
+- Oportunidade de Retenção: Existe um grande   número de clientes no segmento "Em Risco". Uma campanha de reativação direcionada a este grupo, com ofertas personalizadas, pode gerar um retorno significativo sobre o investimento.
+
+- Canal Direto é Mais Valioso: A análise cruzada na matriz revelou que os clientes que fazem reservas diretas tendem a pertencer a segmentos de maior valor, sugerindo que o hotel deve investir em estratégias para incentivar mais reservas através do seu próprio site.
+
+- Perfil de Idade: A faixa etária entre os 40 e 59 anos é a mais lucrativa, fornecendo um alvo claro para campanhas de marketing e desenvolvimento de pacotes personalizados.
+
+## 📬 Contato
+
+🔗 LinkedIn - https://www.linkedin.com/in/juan-da-cunha-moreno-29752a222
